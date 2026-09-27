@@ -141,15 +141,15 @@ MLOps & Deployment ░░░░░░░░░░  Upcoming
 
 <div align="center">
 
+<img src="./profile/stats.svg" alt="GitHub Stats">
+
+<br><br>
+
 <img src="./profile/streak.svg" alt="GitHub Contribution Streak">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mugil-Kumar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugil-Kumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+<img src="./profile/top-langs.svg" alt="Top Languages">
 
 </div>
 
