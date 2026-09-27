@@ -1,12 +1,20 @@
-﻿<div align="center">
+﻿<!-- ==================== HEADER BANNER ==================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=250&section=header&text=MUGIL%20KUMAR&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%" />
+</p>
+
+<div align="center">
 
 # 👋 Hi, I'm Mugil Kumar
 
 ### AI/ML Engineering Student | Python • DSA • Machine Learning
 
-Building strong foundations in programming, data science and artificial intelligence — one step at a time.
+Building strong foundations in programming, data science and artificial intelligence.
 
-<img src="https://komarev.com/ghpvc/?username=Mugil-Kumar&label=Profile%20Views&style=for-the-badge" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Mugil-Kumar&label=PROFILE%20VIEWS&style=for-the-badge" />
 
 </div>
 
@@ -16,13 +24,15 @@ Building strong foundations in programming, data science and artificial intellig
 
 - 🎓 Computer Science student specializing in **Artificial Intelligence & Machine Learning**
 - 🐍 Completed **Python Fundamentals**
+- 📐 Completed **Mathematics Foundations for Machine Learning**
 - 🔢 Completed **NumPy**
 - 📊 Currently learning **Pandas**
 - 🧩 Practicing **Data Structures & Algorithms with Python**
-- 🤖 Working toward **Machine Learning, Deep Learning, Generative AI & AI Agents**
-- 🚀 Building projects while strengthening problem-solving skills
+- 🤖 Preparing for **Machine Learning, Deep Learning and Generative AI**
+- 🚀 Interested in **AI Agents and intelligent systems**
 - 🏆 Participated in an **Agentic AI Hackathon**
-- 🌱 Learning **Git & GitHub** through real projects
+- 💻 Building projects while strengthening programming fundamentals
+- 🌱 Learning Git and GitHub through real projects
 
 ---
 
@@ -31,40 +41,37 @@ Building strong foundations in programming, data science and artificial intellig
 ### 💻 Programming
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### 📊 Data Science
 
 <p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
 </p>
 
 ### 🧠 Computer Science
 
 <p>
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-20232A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-20232A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-20232A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-20232A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-20232A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-20232A?style=for-the-badge" />
 </p>
 
 ### 🔧 Tools
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 📚 Learning Roadmap
+## 📚 Learning Journey
 
 | Area | Status |
 |---|---|
 | 🐍 Python | ✅ Completed |
-| 📐 Mathematics Foundations for ML | ✅ Completed |
+| 📐 Mathematics for ML | ✅ Completed |
 | 🔢 NumPy | ✅ Completed |
 | 📊 Pandas | 🔄 Learning |
 | 🧩 DSA | 🔄 Learning |
@@ -80,38 +87,46 @@ Building strong foundations in programming, data science and artificial intellig
 
 ### 📚 Student Report Card Generator
 
-Python project built using Object-Oriented Programming concepts.
+A Python project built using Object-Oriented Programming concepts.
 
-👉 [View Repository](https://github.com/Mugil-Kumar/student-report-card-python)
+🔗 **[View Repository](https://github.com/Mugil-Kumar/student-report-card-python)**
 
 ### 🐍 Python Learning Journey
 
-Collection of Python programs, exercises and concepts from my learning journey.
+My Python learning journey containing practice programs and concepts.
 
-👉 [View Repository](https://github.com/Mugil-Kumar/Python)
+🔗 **[View Repository](https://github.com/Mugil-Kumar/Python)**
 
-### 📊 More projects coming...
+### 📊 Pandas Learning
 
-Currently building my skills in Pandas, DSA and Machine Learning.
+Currently building my Pandas knowledge from fundamentals to advanced data analysis.
+
+### 🧩 DSA Practice
+
+Currently practicing Data Structures and Algorithms using Python.
 
 ---
 
-## 🏆 Experience & Achievements
+## 🏆 Achievements & Experience
 
 - 🤖 Participated in an **Agentic AI Hackathon**
 - 🐍 Completed Python fundamentals
+- 📐 Completed Mathematics foundations for ML
 - 🔢 Completed NumPy
-- 📐 Built foundations in Mathematics for Machine Learning
-- 💻 Building projects and maintaining them on GitHub
-- 🧩 Consistently improving DSA and problem-solving skills
+- 💻 Built and published Python projects on GitHub
+- 🧩 Practicing DSA and problem solving
+- 📚 Continuously building my AI/ML foundation
 
 ---
 
 ## 🎯 Current Focus
 
 ```text
-Python        ██████████  Completed
-NumPy         ██████████  Completed
-Pandas        ███████░░░  Learning
-DSA           █████░░░░░  Learning
-Machine ML    ██░░░░░░░░  Next
+Python             ██████████  Completed
+Mathematics for ML ██████████  Completed
+NumPy              ██████████  Completed
+Pandas             ███████░░░  Learning
+DSA                █████░░░░░  Learning
+Machine Learning   ██░░░░░░░░  Next
+Deep Learning      ░░░░░░░░░░  Upcoming
+Generative AI      ░░░░░░░░░░  Upcoming
