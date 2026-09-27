@@ -47,7 +47,8 @@ Building strong foundations in programming, data science and artificial intellig
 ### 📊 Data Science
 
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 ### 🧠 Computer Science
@@ -130,3 +131,46 @@ DSA                █████░░░░░  Learning
 Machine Learning   ██░░░░░░░░  Next
 Deep Learning      ░░░░░░░░░░  Upcoming
 Generative AI      ░░░░░░░░░░  Upcoming
+AI Agents          ░░░░░░░░░░  Upcoming
+MLOps & Deployment ░░░░░░░░░░  Upcoming
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="./profile/streak.svg" alt="GitHub Contribution Streak">
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mugil-Kumar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats">
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugil-Kumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+
+</div>
+
+---
+
+## 🌱 My Goal
+
+> Build strong fundamentals, create meaningful AI/ML projects, and grow into a skilled AI/ML Engineer.
+
+---
+
+<p align="center">
+
+### 🚀 Learning. Building. Improving.
+
+**Consistency is the key.**
+
+</p>
+
+<!-- ==================== FOOTER ==================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203A43,100:0F2027&height=120&section=footer" width="100%" />
+</p>
